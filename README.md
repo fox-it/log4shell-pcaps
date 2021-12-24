@@ -343,11 +343,6 @@ PCAP examples using different HTTP headers as a general means to illustrate this
       <td><a href="https://github.com/fox-it/log4shell-pcaps/raw/main/log4shell-rmi-pcaps/rmi-x-api-version-ev8.pcap">rmi-x-api-version-ev8.pcap</a></td>
       <td><a href="#signatures" title="FOX-SRT - EXPLOIT - Possible Apache Log4j Exploit Attempt in HTTP Header">21003732</a>, <a href="#signatures" title="FOX-SRT - Exploit - Possible Rogue JRMI Request to External Observed (CVE-2021-44228)">21003739</a></td>
     </tr>
-    <tr>
-      <td>9</td>
-      <td><a href="https://github.com/fox-it/log4shell-pcaps/raw/main/log4shell-rmi-pcaps/rmi-x-api-version-ev9.pcap">rmi-x-api-version-ev9.pcap</a></td>
-      <td><a href="#signatures" title="FOX-SRT - EXPLOIT - Possible Apache Log4j Exploit Attempt in HTTP Header">21003732</a></td>
-    </tr>
   </tbody>
 </table>
 </details>
